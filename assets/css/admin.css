@@ -1,0 +1,3 @@
+.free2fa-codes-box pre { line-height: 1.7; margin: 0 0 10px; }
+.free2fa-codes-box .button { margin-right: 6px; }
+#free2fa-qr canvas, #free2fa-qr img { display:block; }

@@ -1,0 +1,17 @@
+# Excluded from WordPress.org SVN deploys.
+.git
+.github
+.gitignore
+.distignore
+.vscode
+.idea
+.phpunit.result.cache
+node_modules
+vendor
+tests
+composer.json
+composer.lock
+phpunit.xml
+phpcs.xml
+CHANGELOG.md
+README.md
